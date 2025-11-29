@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Titel und Einleitung
-st.title("Meine erste Streamlit-Webapp 🐍")
+st.title("Meine erste Kneipen-Webapp 🐍")
 st.write("Dies ist eine einfache Demo! Du kannst Text eingeben und speichern (erstmal lokal im Speicher).")
 
 # Einfache lokale Datenbank (nur zur Demo)
